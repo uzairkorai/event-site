@@ -7,7 +7,7 @@ import Highlights from './components/Highlights'
 
 function App() {
   return (
-    <div className="App" style={{height: "1500px", }}>
+    <div className="App" style={{height: "1500px",}}>
       <Header />
       <Featured />
       <VenueNfo />
