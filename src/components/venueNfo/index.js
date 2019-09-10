@@ -27,8 +27,9 @@ const VenueNfo = () => {
                                         Event Date & Time
                                 </div>
                                     <div className="vn_desc">
-                                        7 August 2018 @10.00 pm
-                                </div>
+                                        7th-October-2019
+                                        10.00 pm
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -49,8 +50,8 @@ const VenueNfo = () => {
                                         Event location
                                 </div>
                                     <div className="vn_desc">
-                                        11 Fatima Jinnah Rd, Karachi
-                                </div>
+                                        The Palace, Shahrah-e-Faisal Rd, Karachi,
+                                    </div>
                                 </div>
                             </div>
                         </div>
